@@ -1,0 +1,41 @@
+{
+    ".right-menu__hide-text": [
+        "hide"
+    ],
+    ".nav__link": [
+        "Projects",
+        "Skills",
+        "Projects",
+        "Skills",
+        "Projects",
+        "Skills"
+    ],
+    ".andrii": [
+        "Andrii",
+        "Andrii",
+        "Andrii"
+    ],
+    ".sych": [
+        "Sych", 
+        "Sych",
+        "Sych"
+    ],
+    ".lang-switcher": [
+        "eng", 
+        "eng"
+    ],
+    ".lang-container__item": [
+        "eng",
+        "ukr",
+        "eng",
+        "ukr"
+    ],
+    "._translate": [
+        "response time:",
+        "Mn-Fr: 9:00-21:00"
+    ],
+    ".right-menu__link": [
+        "Projects",
+        "Skills"
+    ]
+}

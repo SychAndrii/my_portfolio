@@ -1,0 +1,10 @@
+{
+    ".main-text-container__heading": [
+        "Everlasting Summer"
+    ],
+    ".main-text-container__p": [
+        "Meeting Artyom, the game's main character, you would've never paid attention to him. Just an ordinary young man with thousands, even hundreds of thousands of those like him in every ordinary city. But one day something completely unusual happens to him: he falls asleep in a bus in winter and wakes up... in the middle of a hot summer. In front of him is \"Sovyonok\" - a pioneer camp, behind him is his former life.",
+        "I really liked Everlasting Summer - it made a great impression on me. I thought it would be nice to copy it using some framework. C++ is cool and all, but I don't see it being applied in my real job. I am more of a Java guy. I tried using Java FX to clone this game, I even replicated first 15 minutes of gameplay, but then I lost motivation to continue. I will try again, this time using C# and its framework WPF.",
+        "If it really goes further than 'Hello world', I will upload a development diary - I think it would be interesting."
+    ]
+}

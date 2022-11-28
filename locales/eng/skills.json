@@ -1,0 +1,19 @@
+{
+    ".main-text-container__heading._heading-skills": [
+        "Skills"
+    ],
+    ".skill-button__text._translate": [
+        "General Stack",
+        "Web Stack"
+    ],
+    ".skill_desc.main-text-container__p": [
+        "Best language ever created by humanity - change my mind. I replicated 15 minutes of Everlasting Summer using Java FX, but gave up. Gonna try one more time after this website is done.",
+        "I am still into minds between C# and Java.",
+        "I've learned C++ in my first 3 semesters of college. I like it, but don't see it being applied in my actual job.",
+        "I don't like javascript. Its type system (or rather its absense) makes it very hard to code even something simple - you spend most of the time trying to figure out why some function is 'undefined'.",
+        "I had C in my first semester. If you know C++, you already know C - nothing to add here.",
+        "Nothing much to add here. This website is written in express.",
+        "I've had SQL databases for 2 semesters, I also know database design (decomposition of a problem, one-to-many relationships etc).",
+        "Seneca also taught me mongo db, I feel like SQL is more solid though."
+    ]
+}

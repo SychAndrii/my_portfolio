@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/andriisych/help/
+    - /bin/cp -R * $DEPLOYPATH
+    
