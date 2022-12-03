@@ -26,6 +26,7 @@
     ],
     ".header__lang": [
         "укр",
+        "укр",
         "укр"
     ],
     ".lang-container__item": [
@@ -36,9 +37,5 @@
     ],
     ".contact__title._translate": [
         "час роботи:"
-    ],
-    ".right-menu__link": [
-        "Проєкти",
-        "Знання"
     ]
 }

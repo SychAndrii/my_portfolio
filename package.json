@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,15 @@
     "i18next-http-middleware": "^3.2.1",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SychAndrii/help-me.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SychAndrii/help-me/issues"
+  },
+  "homepage": "https://github.com/SychAndrii/help-me#readme",
+  "description": ""
 }
